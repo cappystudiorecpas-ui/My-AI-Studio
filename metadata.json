@@ -1,0 +1,6 @@
+{
+  "name": "My AI Studio",
+  "description": "AI Chinese Movie Recap Studio - Convert Chinese videos into Burmese movie recap videos with Chinese Whisper speech recognition, OCR subtitle detection, Gemini AI story understanding, Burmese narration, and synchronized Burmese subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

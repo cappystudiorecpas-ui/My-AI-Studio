@@ -1,0 +1,3 @@
+file 'uploads/test_multisegment_tts/narration_segments/seg_001.mp3'
+file 'uploads/test_multisegment_tts/narration_segments/seg_002.mp3'
+file 'uploads/test_multisegment_tts/narration_segments/seg_003.mp3'
